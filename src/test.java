@@ -4,6 +4,7 @@ public class test {
           // IntelliJ IDEA suggests fixing it.
           System.out.printf("Hello and welcome!");
 
+          System.out.print("df");
           // Press Shift+F10 or click the green arrow button in the gutter to run the code.
           for (int i = 1; i <= 5; i++) {
 
